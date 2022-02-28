@@ -1,0 +1,71 @@
+/* body */
+body > .container{ padding: 40px;}
+.page-header{ display: flex; justify-content: center; padding-bottom: 40px; }
+.page-header h1 { font-size: 40px;}
+
+.formBoard {display: flex; flex-direction:column; padding: 40px;}
+
+.formBoard .formBoard-board { display: flex; justify-content: center;}
+.formBoard .formBoard-board th{ border-right: 1px solid black; }
+.formBoard .formBoard-board td{ padding-left: 10px; }
+.formBoard .formBoard-board select, input, textarea{ width: 500px; resize: none; }
+
+.formBoard .formBoard-pull{ display: flex; justify-content: space-evenly; margin: 10px; }
+.formBoard .formBoard-pull .pull-left{ font-size: 20px; border-radius: 4px; background-color: #8a8a8a; padding: 10px; }
+.formBoard .formBoard-pull .pull-right #btn_insert{ font-size: 20px; border-radius: 4px; background-color: var(--pull-color); padding: 10px; }
+.formBoard .formBoard-pull .pull-right #btn_update{ font-size: 20px; border-radius: 4px; background-color: var(--pull-color); padding: 10px; }
+.formBoard .formBoard-pull .pull-right #btn_delete{ font-size: 20px; border-radius: 4px; background-color: #fc0000; padding: 10px; }
+
+.navbar-tooglebtn {
+    display: none;
+    position: absolute;
+    right: 30px;
+    top: 40px;
+    font-size: 24px;
+    color: #d49466;
+}
+@media screen and (max-width: 768px) {
+    .navbar{
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 8px 24px;
+    }
+
+    .navbar-main {
+        width: 200px;
+    }
+
+    .main-menu{
+        display: none;
+        flex-direction: column;
+    }
+
+    .main-menu li{
+        width: 100%;
+        text-align: center;
+    }
+
+    .navbar-sub {
+        width: 200px;
+    }
+
+    .sub-menu {
+        display: none;
+        flex-direction: column;
+    }
+
+    .sub-menu li{
+        width: 100%;
+        text-align: center;
+        padding: 8px 16px;
+    }
+
+    .navbar-tooglebtn {
+        display: inline;
+    }
+
+    .main-menu.active,
+    .sub-menu.active {
+        display: flex;
+    }
+}

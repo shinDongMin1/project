@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:padding="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8"/>
+    <title>SKU 코로나 Map</title>
+    <link rel="stylesheet" th:href="@{/css/base.css}" />
+    <link rel="stylesheet" th:href="@{/css/statistics.css}" />
+
+    <!-- 폰트 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap" rel="stylesheet">
+
+    <!-- 아이콘 -->
+    <script src="https://kit.fontawesome.com/ac79bf9ffb.js" crossorigin="anonymous"></script>
+    <script th:src="@{/js/corona.js}" type="text/javascript" defer></script>
+    <script type="text/javascript">
+        function Date()
+        {
+            let date = document.getElementById('date').value;
+
+            if("" == date){
+                alert("날짜를 입력하세요");
+                document.getElementById('date').focus();
+                return;
+            }
+            document.formStatistics.action= "date"
+            document.formStatistics.submit();
+        }
+    </script>
+</head>
+<body>
+    <div th:replace="layout/header::header"></div>
+
+    <div class="container">
+        <div>
+            <form class="formStatistics" name ="formStatistics" method="get">
+                <label>
+                    날짜를 입력해주세요
+                    <input type="date" id="date" name="date" class="date" />
+                    <button type="button" class="btn btn-date" id="btn_Date" onclick=Date() >입력</button>
+                </label>
+            </form>
+        </div>
+
+        <th:block th:if="${result} ne null" >
+            <span th:each="item : ${result}">
+                <p th:text="${item}">
+            </span>
+        </th:block>
+    </div>
+
+    <div th:replace="layout/footer::footer"></div>
+</body>
+</html>

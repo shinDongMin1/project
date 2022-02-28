@@ -1,0 +1,28 @@
+@import url(reset.css);
+:root {
+    --text-color: #f0f4f5;
+    --background-color: #263343;
+    --logo-color: #d49466;
+    --pull-color: rgb(100, 201, 100);
+}
+
+html{position: relative; min-height: 100%;}
+a:hover { text-decoration: none; /* 링크의 밑줄 제거 */}
+body{margin-bottom: 60px; font-family: 'Source Sans Pro'; }
+.hidden{ display: none !important;}
+
+/* header */
+.navbar{
+    display: flex;
+    position: sticky; /* 영역 구분 */
+    top:0px;
+    justify-content: space-between; /* 세로 */
+    align-items: center; /* 가로 */
+    background-color: var(--background-color);
+    padding: 8px 30px;
+}  .navbar a{ color: var(--text-color); } .navbar span{ color: var(--text-color); } .navbar li{padding: 8px 16px;} .navbar li:hover { border-radius: 4px; background-color: var(--logo-color);}
+.logo { display: flex; font-size: 24px; align-items : center;}
+.main-menu{ display: flex; list-style: none; padding-left: 0; }
+
+/* footer */
+.footer{position: absolute; bottom: 0; width: 100%; background-color: #5F5F5F; padding: 10px 0; text-align: center; box-sizing: border-box; color: #c0c0c0;}

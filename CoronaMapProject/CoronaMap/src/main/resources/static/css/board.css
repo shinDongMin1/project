@@ -1,0 +1,67 @@
+/* body */
+body > .container{ padding: 40px; }
+.page-header{ display: flex; justify-content: space-evenly; padding-bottom: 40px; }
+.page-header div { display: flex; justify-content: center;}
+.page-header h1 { font-size: 40px;}
+.page-header .pull-right{ font-size: 20px; border-radius: 4px; background-color: var(--pull-color); padding: 10px; }
+
+.mainHide { display: flex; justify-content: center; padding: 40px; }
+.mainHide table{ border: 4px solid black; border-spacing: 10px; }
+.mainHide table th{ border: 1px solid black; }
+
+.pagination { display: flex; justify-content: center; }
+.pagination li { border: 1px solid black; padding: 4px; margin: 1px; }
+
+.navbar-tooglebtn {
+    display: none;
+    position: absolute;
+    right: 30px;
+    top: 40px;
+    font-size: 24px;
+    color: #d49466;
+}
+@media screen and (max-width: 768px) {
+    .navbar{
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 8px 24px;
+    }
+
+    .navbar-main {
+        width: 200px;
+    }
+
+    .main-menu{
+        display: none;
+        flex-direction: column;
+    }
+
+    .main-menu li{
+        width: 100%;
+        text-align: center;
+    }
+
+    .navbar-sub {
+        width: 200px;
+    }
+
+    .sub-menu {
+        display: none;
+        flex-direction: column;
+    }
+
+    .sub-menu li{
+        width: 100%;
+        text-align: center;
+        padding: 8px 16px;
+    }
+
+    .navbar-tooglebtn {
+        display: inline;
+    }
+
+    .main-menu.active,
+    .sub-menu.active {
+        display: flex;
+    }
+}
