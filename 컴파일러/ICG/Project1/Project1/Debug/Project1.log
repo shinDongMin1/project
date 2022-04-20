@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\sddgu\OneDrive\바탕 화면\컴파일러\ICG\Project1\Project1\소스.cpp(1298,16): warning C4101: 'q' :참조되지 않은 지역 변수입니다.
+C:\Users\sddgu\OneDrive\바탕 화면\컴파일러\ICG\Project1\Project1\소스.cpp(1491,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Project1.vcxproj -> C:\Users\sddgu\OneDrive\바탕 화면\컴파일러\ICG\Project1\Debug\Project1.exe
