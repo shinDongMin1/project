@@ -1,0 +1,12 @@
+
+
+
+
+
+
+     matplotlib 연습   <- matlab like.. Graphic module
+
+	- MP01: 1차원 신호의 그림 그리기
+	- MP02: 영상 파일을 읽어 화면에 출력하기
+	- MP03: 3차원으로 그래프 그리기
+

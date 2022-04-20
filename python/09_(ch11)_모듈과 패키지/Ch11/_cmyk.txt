@@ -1,0 +1,180 @@
+
+red-cmyk-color-model -------- 
+ Pomegranate: 0%, 78%, 78%, 6%:
+ Sunglo: 0%, 53%, 53%, 11%:
+ Radical Red: 0%, 85%, 64%, 4%:
+ New York Pink: 0%, 42%, 42%, 12%:
+ Cabaret: 0%, 61%, 40%, 18%:
+ Wax Flower: 0%, 30%, 34%, 5%:
+ Sunset Orange: 0%, 71%, 71%, 4%:
+ Razzmatazz: 0%, 95%, 58%, 14%:
+ Cinnabar: 0%, 67%, 74%, 9%:
+ Monza: 0%, 100%, 93%, 19%:
+ Tall Poppy: 0%, 70%, 78%, 25%:
+ Valencia: 0%, 68%, 70%, 16%:
+ Old Brick: 0%, 73%, 82%, 41%:
+ Thunderbird: 0%, 86%, 89%, 15%:
+ Scarlet: 0%, 84%, 92%, 5%:
+ Chestnut Rose: 0%, 63%, 59%, 18%:
+ Soft Red: 0%, 58%, 68%, 7%:
+ Vivid Tangerine: 0%, 42%, 53%, 0%:
+ Falcon: 0, 21, 11, 54:
+ Froly: 0, 46, 41, 5:
+
+purple-cmyk-color-model -------- 
+ Seance: 14%, 90%, 0%, 30%:
+ Plum: 0%, 58%, 6%, 43%:
+ Light Wisteria: 10%, 32%, 0%, 17%:
+ Wisteria: 15%, 51%, 0%, 29%:
+ Studio: 18%, 61%, 0%, 32%:
+ Snuff: 2%, 12%, 0%, 12%:
+ Medium Purple: 19%, 64%, 0%, 7%:
+ Honey Flower: 10%, 43%, 0%, 55%:
+ Lavender Purple: 16%, 30%, 0%, 31%:
+ Ce Soir: 2%, 37%, 0%, 32%:
+ RebeccaPurple: 33%, 67%, 0%, 40%:
+ Electric Indigo: 44%, 92%, 0%, 1%:
+ Mauve: 16%, 28%, 0%, 0%:
+ Blue Chalk: 5%, 9%, 0%, 0%:
+ Electric Purple: 35%, 78%, 0%, 1%:
+ Scampi: 24%, 34%, 0%, 40%:
+ Light Slate Blue: 37%, 64%, 0%, 1%:
+ Wistful: 18%, 20%, 0%, 17%:
+ Medium Red Violet: 0%, 64%, 1%, 41%:
+
+blue-cmyk-color-model -------- 
+ Persian Blue: 63%, 91%, 0%, 18%:
+ Fountain Blue: 52%, 21%, 0%, 25%:
+ Jacksons Purple: 79%, 61%, 0%, 42%:
+ Pickled Bluewood: 45%, 22%, 0%, 63%:
+ Malibu: 55%, 23%, 0%, 6%:
+ San Marino: 62%, 40%, 0%, 30%:
+ Sherpa Blue: 99%, 25%, 0%, 74%:
+ Jelly Bean: 78%, 31%, 0%, 34%:
+ Ming: 59%, 11%, 0%, 52%:
+ Chambray: 63%, 46%, 0%, 39%:
+ Deep Sky Blue: 90%, 29%, 0%, 0%:
+ Madison: 45%, 22%, 0%, 69%:
+ Curious Blue: 76%, 31%, 0%, 14%:
+ Dodger Blue: 86%, 30%, 0%, 6%:
+ Humming Bird: 20%, 3%, 0%, 3%:
+ Shakespeare: 62%, 18%, 0%, 15%:
+ Spray: 42%, 8%, 0%, 12%:
+ Picton Blue: 61%, 25%, 0%, 11%:
+ Havelock Blue: 70%, 39%, 0%, 16%:
+ Ebony Clay: 11%, 5%, 0%, 75%:
+ Alice Blue: 10%, 5%, 0%, 0%:
+ Air Force Blue: 61%, 37%, 0%, 25%:
+ Han Purple: 67%, 98%, 0%, 9%:
+ Royal Blue: 65%, 78%, 0%, 7%:
+ Shark: 14%, 12%, 0%, 84%:
+ Jordy Blue: 44%, 20%, 0%, 4%:
+ Summer Sky: 85%, 29%, 0%, 24%:
+ Iris Blue: 100%, 11%, 0%, 20%:
+ Mariner: 78%, 35%, 0%, 21%:
+
+green-cmyk-color-model -------- 
+ Niagara: 78%, 0%, 17%, 27%:
+ Bright Turquoise: 83%, 0%, 19%, 5%:
+ Java: (83%, 0%, 18%, 20%):
+ Light Green: 49%, 0%, 26%, 6%:
+ Ocean Green: 56%, 0%, 29%, 31%:
+ Aqua Island: 27%, 0%, 6%, 13%:
+ Medium Turquoise: 62%, 0%, 4%, 20%:
+ Summer Green: 19%, 0%, 17%, 29%:
+ Observatory: 97%, 0%, 22%, 42%:
+ Salem: 77%, 0%, 42%, 49%:
+ Jade: 100%, 0%, 40%, 31%:
+ Free Speech Aquamarine: 98%, 0%, 28%, 35%:
+ Green Haze: 99%, 0%, 23%, 40%:
+ Eucalyptus: 77%, 0%, 45%, 35%):
+ Malachite: 100%, 0%, 72%, 10%:
+ Jungle Green: 80%, 0%, 34%, 24%:
+ Dark Sea Green: 27%, 0%, 25%, 22%:
+ Gossip: 36%, 0%, 41%, 17%:
+ Emerald: 68%, 0%, 34%, 24%:
+ Mountain Meadow: 86%, 0%, 17%, 37%:
+ Shamrock: 77%, 0%, 45%, 20%:
+ Riptide: 41%, 0%, 6%, 11%:
+ Madang: 19%, 0%, 20%, 3%:
+ Turquoise: 75%, 0%, 15%, 16%:
+ Medium Aquamarine: 50%, 0%, 25%, 20%:
+ Light Sea Green: 83%, 0%, 4%, 36%:
+ Downy: 49%, 0%, 6%, 22%:
+ Silver Tree: 47%, 0%, 16%, 24%:
+ Caribbean Green: 99%, 0%, 16%, 21%:
+
+yellow-cmyk-color-model -------- 
+ Confetti: 0%, 9%, 59%, 9%:
+ Orchid White: 0%, 0%, 11%, 6%:
+ Ripe Lemon: 0%, 18%, 90%, 3%:
+ Cream Can: 0%, 12%, 55%, 4%:
+ Saffron: 0%, 14%, 71%, 4%:
+ Kournikova: 0%, 14%, 64%, 2%:
+ Turbo: 0%, 7%, 89%, 4%:
+ Chartreuse Yellow: 0%, 0%, 100%, 7%:
+ Marigold Yellow: 1%, 0%, 52%, 3%:
+ Dolly: 0%, 0%, 51%, 0%:
+ Cream: 0%, 0%, 20%, 0%:
+ Candy Corn: 0%, 5%, 62%, 0%:
+ Yellow: 6%, 0%, 100%, 0%:
+ Energy Yellow: 0%, 6%, 66%, 4%:
+ Witch Haze: 0%, 4%, 44%, 0%:
+ Salomie: 0%, 7%, 45%, 0%:
+ Gin Fizz: 0%, 2%, 13%, 0%:
+ Buff: 0%, 10%, 45%, 5%:
+ Moon Glow: 0, 2, 17, 0:
+
+orange-cmyk-color-model -------- 
+ Cape Honey: 0%, 10%, 34%, 1%:
+ Saffron Mango: 0%, 24%, 65%, 2%:
+ Lightning Yellow: 0%, 30%, 78%, 4%:
+ Sea Buckthorn: 0%, 36%, 67%, 8%:
+ Tahiti Gold: 0%, 46%, 98%, 9%:
+ California: 0%, 40%, 98%, 3%:
+ Casablanca: 0%, 27%, 67%, 4%:
+ Crusta: 0%, 50%, 69%, 5%:
+ Fire Bush: 0%, 37%, 79%, 8%:
+ Supernova: 0%, 20%, 98%, 0%:
+ Goldenrod: 0%, 15%, 56%, 1%:
+ Carrot Orange: 0%, 45%, 85%, 10%:
+ Buttercup: 0%, 36%, 93%, 5%:
+ Sandstorm: 0%, 23%, 76%, 2%:
+ Jaffa: 0%, 50%, 78%, 5%:
+ Ecstasy: 0%, 58%, 94%, 2%:
+ Burnt Orange: 0%, 60%, 100%, 17%:
+ Zest: 0%, 47%, 78%, 11%:
+ Vivid: 0%, 63%, 86%, 5%:
+ My Sin: 0%, 27%, 74%, 1%:
+ Light Buckthorn: 0%, 28%, 82%, 2%:
+
+grey-cmyk-color-model -------- 
+ Niagara: 78%, 0%, 17%, 27%:
+ Bright Turquoise: 83%, 0%, 19%, 5%:
+ Java: (83%, 0%, 18%, 20%):
+ Light Green: 49%, 0%, 26%, 6%:
+ Ocean Green: 56%, 0%, 29%, 31%:
+ Aqua Island: 27%, 0%, 6%, 13%:
+ Medium Turquoise: 62%, 0%, 4%, 20%:
+ Summer Green: 19%, 0%, 17%, 29%:
+ Observatory: 97%, 0%, 22%, 42%:
+ Salem: 77%, 0%, 42%, 49%:
+ Jade: 100%, 0%, 40%, 31%:
+ Free Speech Aquamarine: 98%, 0%, 28%, 35%:
+ Green Haze: 99%, 0%, 23%, 40%:
+ Eucalyptus: 77%, 0%, 45%, 35%):
+ Malachite: 100%, 0%, 72%, 10%:
+ Jungle Green: 80%, 0%, 34%, 24%:
+ Dark Sea Green: 27%, 0%, 25%, 22%:
+ Gossip: 36%, 0%, 41%, 17%:
+ Emerald: 68%, 0%, 34%, 24%:
+ Mountain Meadow: 86%, 0%, 17%, 37%:
+ Shamrock: 77%, 0%, 45%, 20%:
+ Riptide: 41%, 0%, 6%, 11%:
+ Madang: 19%, 0%, 20%, 3%:
+ Turquoise: 75%, 0%, 15%, 16%:
+ Medium Aquamarine: 50%, 0%, 25%, 20%:
+ Light Sea Green: 83%, 0%, 4%, 36%:
+ Downy: 49%, 0%, 6%, 22%:
+ Silver Tree: 47%, 0%, 16%, 24%:
+ Caribbean Green: 99%, 0%, 16%, 21%:
