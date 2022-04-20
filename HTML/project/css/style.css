@@ -1,0 +1,65 @@
+@import url("reset.css");
+
+.content-box
+{
+	height: inherit;
+	--height: 100%;
+	width: 960px;
+	margin-left:auto;
+	margin-right:auto;
+ 	background: #ffff0060;
+	display: flex;
+}
+
+/* ------------------------범용----------------------------------- */
+
+#header
+{
+	--height: 70px;
+ 	background: #00000099;
+	color: white;
+}
+
+#visual
+{
+	height: 171px;
+ 	background: rgb(255,255,255);
+}
+	#visual > .content-box > section
+	{
+ 		background: rgb(0,255,255);		
+		
+	}
+
+#body
+{
+	--height: 300px;
+ 	background: rgba(0%,100%,0%, 0.2);
+ 	background: #00ff0020;
+}
+	#body > .content-box
+	{
+		display: flex;
+	}
+
+	#aside
+	{
+		height: inherit;
+		width: 205px;
+		 background: #0000ff20;
+	}
+
+	#main
+	{
+		height: inherit;
+		width: 755px;
+		 background: #ff000020;
+	}
+
+#footer
+{
+	--height: 100px;
+ 	background: gray;	
+}
+
+

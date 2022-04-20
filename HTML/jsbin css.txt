@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+<style>
+* {
+  color: green;
+}
+
+li {
+  color: blue;
+}
+
+li #special {
+  color: pink;
+}
+
+.red  {
+  width: 100px;
+  height: 100px;
+  padding: 20px 20px 20px 20px;
+  margin: 20px;
+  border: 2px solid pink;
+  background: yellow;
+}
+
+button:hover {
+  color: red;
+  background: yellow;
+}
+
+a[href^="naver"] {
+  color: black;
+}
+
+a[href$=".com"] {
+  color: ;
+}
+
+a[href*="포함"] {
+  color: ;
+}
+</style>
+</head>
+<body>
+  <ol>
+    <li id=special>First</li>
+    <li>Second</li>
+  </ol>
+  <h1 id=special>hi</h1>
+  <button>button1</button>
+  <button>button2</button>
+  <div class=red></div>
+  <div class=blue></div>
+  <a href=naver.com>Naver</a>
+  <a href=google.com>Google</a>
+  <a>Empty</a>
+</body>
+</html>

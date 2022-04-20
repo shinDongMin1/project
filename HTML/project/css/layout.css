@@ -1,0 +1,78 @@
+@import url(reset.css);
+
+div, span {
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+	background: pink;
+}
+
+div {
+	background: red;
+}
+
+span {
+	background: blue;
+	display: block;
+}
+
+.container {
+	background: beige;
+	height: 100vh;	
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	--flex-flow: column nowrap;
+
+	--justify-content: space-between; /* 중심축 around evenly */
+	--align-items: center; /* cross축 baseline */
+	--align-content: space-between; /* cross축 around evenly */
+}
+
+.item{
+	width: 40px;
+	height: 40px;
+	border: 1px solid black;
+}
+
+.item1{
+	background: red;
+	flex: 2 2 auto; /* grow shrink basis */
+	align-self: ; 
+}
+
+.item2{
+	background: orange;
+}
+
+.item3{
+	background: yellow;
+}
+
+.item4{
+	background: green;
+}
+
+.item5{
+	background: blue;
+}
+
+.item6{
+	background: pink;
+}
+
+.item7{
+	background: violet;
+}
+
+.item8{
+	background: black;
+}
+
+.item9{
+	background: white;
+}
+
+.item10{
+	background: ;
+}

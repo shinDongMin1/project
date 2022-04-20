@@ -1,0 +1,67 @@
+Flex grid
+Flex box
+vh vw % -> px(x)
+@import url(reset.css);
+
+#header
+{
+	height: 70px;
+	background: beige;
+	position: sticky;
+	width: 100%;
+	top: 0px;
+}
+
+ul
+{
+	background: yellow;
+	--height: 300px;
+	--width: 500px;
+	--position: relative;
+}
+
+#s1 li:nth-child(1)
+{
+	background: red;
+	position: fixed;
+	--left: 100px;
+	--right: 0px;
+	--top: 100px;
+	bottom: 0px;
+	--height: 100px; 
+	width: 100%;
+}
+
+#s1 li:nth-child(2)
+{
+	background: green;
+	--position: absolute; 웹 전체의 절대위치
+	--left: 0px;
+	--right: 0px;
+	--top: 0px;
+	--bottom: 0px;
+	--height: 100px; 
+	--width: 100%;
+
+	--position: relative; ul컨텐츠에 상대적위치
+	--left: 50px;
+	--right: 0px;
+	--top: 30px;
+	--bottom: 0px;
+	--height: 100px; 
+	--width: 100%;
+
+
+	--position: fixed; 화면에 고정
+	--left: 100px;
+	--right: 0px;
+	--top: 100px;
+	--bottom: 0px;
+	--height: 100px; 
+	--width: 100%;
+}
+
+#s1 li:nth-child(3)
+{
+	background: blue;
+}

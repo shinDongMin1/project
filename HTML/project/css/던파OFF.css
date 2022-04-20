@@ -1,0 +1,152 @@
+@import url(reset.css);
+
+:root {
+	--text-color: #f0f4f5;
+	--background-color: #263343;
+	--logo-color: #d49466;
+}
+
+body {
+	margin: 0;
+	font-family: 'Source Sans Pro';
+}
+
+a {	
+	color: var(--text-color);	
+}
+
+a:hover {		
+	text-decoration: none; /* 링크의 밑줄 제거 */
+}
+
+.navbar{
+	position: sticky;
+	top: 0px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: var(--background-color);
+	padding: 8px 12px;
+}
+
+.navbar-logo{
+	font-size: 24px;
+	color: var(--text-color);	
+}
+	.navbar-logo i {
+		color: var(--logo-color);
+	}
+
+.navbar-menu{
+	display: flex;
+	list-style: none;
+	padding-left: 0;
+}
+	.navbar-menu li{
+		padding: 8px 12px;
+	}
+
+	.navbar-menu li:hover {
+		border-radius: 4px;
+		background-color: var(--logo-color);
+	}
+
+
+
+.navbar-icon{
+	list-style: none;
+	color: var(--text-color);
+	display: flex;
+}
+	.navbar-icon li{
+		padding: 8px 12px;
+	}
+
+.navbar-tooglebtn {
+	display: none;
+	position: absolute;
+	right: 30px;
+	font-size: 24px;
+	color: #d49466;
+}
+
+.banner {
+	--display: flex;
+	--flex: row wrap;
+	background: #d49466;
+	width: 100%;
+	height: 100%;
+}
+
+.banner .img-box {
+	padding: 30px 8px 8px 8px;
+}
+	.banner .img-box img{
+		display: block;
+		margin: 0px auto;
+		width: 25%;
+	}
+.banner .form-box {
+	padding: 8px 8px 30px 8px;
+}
+	.banner .form-box form {
+		display: block;
+		text-align: center;
+	}
+
+	.banner .form-box select, input[type="submit"]  {
+		box-sizing: border-box;
+		background-color: black;
+		color: white;
+		appearance: none;
+	}
+
+	.banner .form-box input[type="text"] {
+		width: 25%;
+		border: solid 1px black;
+		border-radius: 4px;
+	}
+	.banner .form-box input:focus {
+		background-color: #E0ffff;
+	}
+
+
+@media screen and (max-width: 768px) {
+	.navbar{
+		flex-direction: column;
+		align-items: flex-start;
+		padding: 8px 24px;
+	}
+
+	.navbar-menu{
+		display: none;
+		flex-direction: column;
+		align-items: center;
+		width: 100%;
+	}
+
+	.navbar-menu li{
+		width: 100%;
+		text-align: center;
+	}
+
+	.navbar-icon {
+		display: none;
+		width: 100%;
+		justify-content: center;
+	}
+
+	.navbar-icon li{
+		padding: 8px 8px;
+	}
+
+	.navbar-tooglebtn {
+		display: inline;
+	}
+
+	.navbar-menu.active,
+	.navbar-icon.active {
+		display: flex;
+	}
+	
+}

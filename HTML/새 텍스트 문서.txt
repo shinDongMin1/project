@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title></title>
+		<link></link>
+		<script defer src=""></script>
+	</head>
+
+	<body>	
+		<header>
+			<h2>제목</h2>	
+		</header>
+
+		<nav>
+			<h2>메뉴</h2>	
+		</nav>
+
+		<main>
+			<h2>주컨텐츠</h2>	
+		</main>
+
+		<aside>
+			<h2>사이드 또는 중첩</h2>
+			<article>
+			<nav></nav>
+		</aside>
+
+		<footer>
+			<h2>소유자</h2>			
+			<div>
+ 				<h3>2017305039신동민</h3>
+			</div>
+		</footer>
+	</body>
+</html>

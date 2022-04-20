@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+        <a href="https://google.com" target=-blank>click</a>
+  
+        <ol type=i reversed>
+          <li>1</li>
+          <li>2</li>
+          <li>3</li>
+        </ol>
+        <label for=name-in>이름</label>
+        <input id=name-in type="password">
+  
+        <header>
+			<h2>제목</h2>	
+		</header>
+
+		<nav>
+			<h2>메뉴</h2>	
+		</nav>
+
+		<main>
+			<h2>주컨텐츠</h2>	
+		</main>
+
+		<aside>
+			<h2>사이드 또는 중첩</h2>
+			<article>
+			<nav></nav>
+		</aside>
+
+		<footer>
+			<h2>소유자</h2>			
+			<div>
+ 				<h3>2017305039신동민</h3>
+			</div>
+		</footer>
+</body>
+</html>
