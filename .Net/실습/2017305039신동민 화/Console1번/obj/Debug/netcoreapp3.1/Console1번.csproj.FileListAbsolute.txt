@@ -1,0 +1,13 @@
+C:\Users\신영선\Desktop\Console1번\obj\Debug\netcoreapp3.1\Console1번.csprojAssemblyReference.cache
+C:\Users\신영선\Desktop\Console1번\obj\Debug\netcoreapp3.1\Console1번.AssemblyInfoInputs.cache
+C:\Users\신영선\Desktop\Console1번\obj\Debug\netcoreapp3.1\Console1번.AssemblyInfo.cs
+C:\Users\신영선\Desktop\Console1번\obj\Debug\netcoreapp3.1\Console1번.csproj.CoreCompileInputs.cache
+C:\Users\신영선\Desktop\Console1번\bin\Debug\netcoreapp3.1\Console1번.exe
+C:\Users\신영선\Desktop\Console1번\bin\Debug\netcoreapp3.1\Console1번.deps.json
+C:\Users\신영선\Desktop\Console1번\bin\Debug\netcoreapp3.1\Console1번.runtimeconfig.json
+C:\Users\신영선\Desktop\Console1번\bin\Debug\netcoreapp3.1\Console1번.runtimeconfig.dev.json
+C:\Users\신영선\Desktop\Console1번\bin\Debug\netcoreapp3.1\Console1번.dll
+C:\Users\신영선\Desktop\Console1번\bin\Debug\netcoreapp3.1\Console1번.pdb
+C:\Users\신영선\Desktop\Console1번\obj\Debug\netcoreapp3.1\Console1번.dll
+C:\Users\신영선\Desktop\Console1번\obj\Debug\netcoreapp3.1\Console1번.pdb
+C:\Users\신영선\Desktop\Console1번\obj\Debug\netcoreapp3.1\Console1번.genruntimeconfig.cache

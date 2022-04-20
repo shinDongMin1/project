@@ -1,0 +1,26 @@
+C:\Users\신영선\Desktop\Console2번\bin\Debug\netcoreapp3.1\Console2번.exe
+C:\Users\신영선\Desktop\Console2번\bin\Debug\netcoreapp3.1\Console2번.deps.json
+C:\Users\신영선\Desktop\Console2번\bin\Debug\netcoreapp3.1\Console2번.runtimeconfig.json
+C:\Users\신영선\Desktop\Console2번\bin\Debug\netcoreapp3.1\Console2번.runtimeconfig.dev.json
+C:\Users\신영선\Desktop\Console2번\bin\Debug\netcoreapp3.1\Console2번.dll
+C:\Users\신영선\Desktop\Console2번\bin\Debug\netcoreapp3.1\Console2번.pdb
+C:\Users\신영선\Desktop\Console2번\obj\Debug\netcoreapp3.1\Console2번.csprojAssemblyReference.cache
+C:\Users\신영선\Desktop\Console2번\obj\Debug\netcoreapp3.1\Console2번.AssemblyInfoInputs.cache
+C:\Users\신영선\Desktop\Console2번\obj\Debug\netcoreapp3.1\Console2번.AssemblyInfo.cs
+C:\Users\신영선\Desktop\Console2번\obj\Debug\netcoreapp3.1\Console2번.csproj.CoreCompileInputs.cache
+C:\Users\신영선\Desktop\Console2번\obj\Debug\netcoreapp3.1\Console2번.dll
+C:\Users\신영선\Desktop\Console2번\obj\Debug\netcoreapp3.1\Console2번.pdb
+C:\Users\신영선\Desktop\Console2번\obj\Debug\netcoreapp3.1\Console2번.genruntimeconfig.cache
+C:\Users\신영선\Desktop\2017305039신동민 화\Console2번\bin\Debug\netcoreapp3.1\Console2번.exe
+C:\Users\신영선\Desktop\2017305039신동민 화\Console2번\bin\Debug\netcoreapp3.1\Console2번.deps.json
+C:\Users\신영선\Desktop\2017305039신동민 화\Console2번\bin\Debug\netcoreapp3.1\Console2번.runtimeconfig.json
+C:\Users\신영선\Desktop\2017305039신동민 화\Console2번\bin\Debug\netcoreapp3.1\Console2번.runtimeconfig.dev.json
+C:\Users\신영선\Desktop\2017305039신동민 화\Console2번\bin\Debug\netcoreapp3.1\Console2번.dll
+C:\Users\신영선\Desktop\2017305039신동민 화\Console2번\bin\Debug\netcoreapp3.1\Console2번.pdb
+C:\Users\신영선\Desktop\2017305039신동민 화\Console2번\obj\Debug\netcoreapp3.1\Console2번.csprojAssemblyReference.cache
+C:\Users\신영선\Desktop\2017305039신동민 화\Console2번\obj\Debug\netcoreapp3.1\Console2번.AssemblyInfoInputs.cache
+C:\Users\신영선\Desktop\2017305039신동민 화\Console2번\obj\Debug\netcoreapp3.1\Console2번.AssemblyInfo.cs
+C:\Users\신영선\Desktop\2017305039신동민 화\Console2번\obj\Debug\netcoreapp3.1\Console2번.csproj.CoreCompileInputs.cache
+C:\Users\신영선\Desktop\2017305039신동민 화\Console2번\obj\Debug\netcoreapp3.1\Console2번.dll
+C:\Users\신영선\Desktop\2017305039신동민 화\Console2번\obj\Debug\netcoreapp3.1\Console2번.pdb
+C:\Users\신영선\Desktop\2017305039신동민 화\Console2번\obj\Debug\netcoreapp3.1\Console2번.genruntimeconfig.cache
