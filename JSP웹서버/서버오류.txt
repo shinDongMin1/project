@@ -1,0 +1,2 @@
+netstat -a -n -o -p tcp
+taskkill /f /pid 12864
